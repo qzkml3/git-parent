@@ -1,0 +1,3 @@
+[submodule "git-child"]
+	path = git-child
+	url = https://github.com/qzkml3/git-child.git
